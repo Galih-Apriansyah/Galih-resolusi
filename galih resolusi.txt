@@ -1,0 +1,6 @@
+-Ingin mempelajari bahasa pemrograman, seperti:
+ * JavaScript
+ * Python
+ * Java
+ * C++
+ 
