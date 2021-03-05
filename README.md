@@ -1,2 +1,2 @@
-# Galih-resolusi
+# kalkulator
 Hanya percobaan saja
